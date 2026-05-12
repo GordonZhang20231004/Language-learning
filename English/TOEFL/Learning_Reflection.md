@@ -1,13 +1,13 @@
 # 听力
-## 大脑无法按照英语母语者的逻辑实时处理信
+## 大脑无法实时处理听力内容
 ------英语听力本质上不是：“翻译”
 
 而是：
 
 “实时跟着英语的逻辑走”你不能等一句结束再理解，而是：听到哪里，理解到哪里
 
-这点特别重要。
-你现在最需要训练的，其实是：“英语顺序处理能力”
+所以： 需要训练的，其实是：“英语顺序处理能力”
+
 一，按照英语顺序理解
 比如：
 the book on the table
@@ -27,8 +27,7 @@ The scientist who worked at MIT developed a new system.
 
 而是：
 scientist（科学家）--->who worked at MIT（哦，在MIT工作的）--->developed a new system（开发了系统）
-英语母语者的大脑是“边听边修正信息”
-而不是等全句结束。
+英语母语者的大脑是“边听边修正信息”,而不是等全句结束。
 
 三、精听时，侧重持续加深理解英语表达逻辑（训练）
 比如：
@@ -49,11 +48,12 @@ temperature
 后面疯狂追加说明
 
 四，Shadowing
-感知英语听力的信息块，而非单个词
-我现在的问题是，不仅单词听不懂，还有整体感知能力。
-例如：
-in which the termites live
-英语母语者会整体感知。不是：in / which / the / termites / live
+
+感知英语听力的信息块，而非单个词---不仅单词听不懂，还有整体感知能力。
+
+    例如：
+    in which the termites live
+    英语母语者会整体感知。不是：in / which / the / termites / live
 
 因此，通过shadowing提升英语整体的感知能力
 
@@ -67,8 +67,7 @@ in which the termites live
 
 “自己无法自动产生这种逻辑”
 
-这是英语学习里非常关键的一个阶段。
-很多人永远停留在：背单词 → 翻译中文
+这是英语学习里非常关键的一个阶段。很多人永远停留在：背单词 → 翻译中文
 
 你现在缺的不是理解英语的能力，而是自动化的能力
 你看别人打篮球动作：
@@ -79,80 +78,92 @@ in which the termites live
 
 英语也是一样。
 
-解决办法：“英语信息流复现训练”
+解决办法：“英语信息流---复现训练”
 
 一、不要背“中文意思”
 
 背：
 英语的信息推进方式
 
-例如：
-The vents maintain a stable internal temperature.
-你不要只记：“通风口维持温度”。
-而是训练：
-vents
-→ maintain
-→ temperature
-即：
-主体→ 动作→ 结果
+    例如：
+    The vents maintain a stable internal temperature.
+    你不要只记：“通风口维持温度”。
+    而是训练：
+    vents
+    → maintain
+    → temperature
+    即：
+    主体→ 动作→ 结果
 
-再比如：
+    再比如：
 
-things found in nature
+    things found in nature
 
-不要记：
+    不要记：
 
-“自然中的东西”。
+    “自然中的东西”。
 
-而是训练：
+    而是训练：
 
-things
+    things
 
-→ found
-→ in nature
+    → found
+    → in nature
 
-即：
+    即：
 
-先东西
-再补信息
+    先东西
+    再补信息
 
 
 综上，以此逐步改变：大脑处理顺序
 
 二、做“英语顺序复述”
 
-例如看到：
+    例如看到：
 
-The scientist developed a new system.
+    The scientist developed a new system.不要翻译。
 
-你不要翻译。
+    而是用最简单英语继续顺序复述：
 
-而是用最简单英语继续顺序复述：
+    scientist
+    → developed
+    → system
 
-scientist
-→ developed
-→ system
+    甚至可以自己嘴里说：
 
-甚至可以自己嘴里说：
-
-哦，一个scientist
-他developed
-一个system
+    哦，一个scientist
+    他developed
+    一个system
 
 重点是：
 
-不倒装成中文
+不要封装成中文，而是按照英语的信息流推进方式，直接对接相应的概念/物体等。
 
-这是核心。
+    例如：
 
-三、精听时不要追求全翻译
+    The boy opened the door.
 
-你现在很容易：
+    不要翻译成：
 
-一边听
-一边翻译中文
+    那个男孩打开了门
 
-这会把工作记忆瞬间占满。
+    而是脑中：
+
+    boy
+    ↓
+    opened
+    ↓
+    door
+
+    像电影镜头一样：
+
+    👦 → 🚪 → 打开
+
+
+三、精听时不要追求全翻译（即整体理解信息块）
+
+你现在很容易：一边听一边翻译中文，这会把工作记忆瞬间占满。
 
 TOEFL 听力尤其如此。
 
@@ -174,36 +185,28 @@ to
 
 “为了达成某目的”
 
-英语母语者听力其实大量是：
-
-chunk（信息块）
-
-而不是单词。
+英语母语者听力其实大量是：chunk（信息块），而不是单词。
 
 四、你特别适合“跟读模仿逻辑”
 
-不是模仿发音。
-
-而是模仿：
+不是模仿发音。而是模仿：
 
 英语是怎么推进信息的
 
-例如：
+    例如：
 
-Biomimicry is the human practice of ...
+    Biomimicry is the human practice of ...
 
-你要感受：
+    你要感受：
 
-先定义
-再解释内容
+    先定义
+    再解释内容
 
-英语 lecture 基本全这样。
+    英语 lecture 基本全这样。
 
 五、最重要的一点
 
-你现在不要着急：
-
-“自己立刻能分析”
+你现在不要着急：“自己立刻能分析”
 
 因为：
 
