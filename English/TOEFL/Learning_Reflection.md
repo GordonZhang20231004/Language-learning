@@ -215,10 +215,90 @@ to
 本来就是大量输入后，
 大脑慢慢自动形成的。
 
+## 自己如何备考？
+将听力中难以听懂的长句子，进行记录并做信息流笔记
+    如
+    sitting at your desk---动作 → 地点
+    Weekends---先定范围主题
+        is actually---修正
+        when I do---修正的内容
+        most of---先给数量感
+        working out---后补充内容
 
-# 作文邮件撰写
-## 一、永远先看题目要求
-## 二、英语邮件是“任务流”
+# Writing
+
+## 组织句子
+**规律1：先主干，再补充**
+
+英语：
+
+someone
+→ does something
+→ 补充信息
+
+比如：
+
+The professor explained the concept clearly in class yesterday.
+
+英语推进：
+
+professor
+→ explained
+→ concept
+→ clearly
+→ in class
+→ yesterday
+
+而中文：“昨天在课上，教授很清楚地解释了……”
+
+英语不喜欢：一上来堆背景。
+
+**规律2：动作优先**
+
+英语特别喜欢：
+
+谁
+→ 做了什么
+
+比如：
+    People use smartphones to access information quickly.
+
+不是：
+    To access information quickly, people use smartphones.
+
+后者不是错。但英语默认更偏：动作先出现。
+
+**规律3：地点、时间通常后放**
+
+比如：
+
+it'd be easier
+→ to do it
+→ near home
+→ than drive downtown
+
+英语：
+
+先核心动作
+再地点
+
+**规律4：英语特别怕“回头”**
+
+英语喜欢：一路直线推进。
+
+**四、Sentence Building 真正高效的训练方法**
+
+真正有效的是：信息流训练。
+
+千万别：
+    ❌ 背语法书
+    ❌ 死做题
+
+
+
+## 邮件撰写
+一、永远先看题目要求
+二、英语邮件是“任务流”
     一个任务→ 一个段落
 
     第一段：喜欢杂志
@@ -227,36 +307,30 @@ to
 
     TOEFL 写作标准结构。
 
-## 三、不要追求高级词汇
-TOEFL更看重：
+三、不要追求高级词汇
+TOEFL更看重：清晰，自然，完整，逻辑
 
-清晰
-自然
-完整
-逻辑
-
-## 四、一定准备“万能句型”模板感很强。
+四、一定准备“万能句型”模板感很强。
 
 比如：
+    开头万能句
+    I recently learned about...
+    I am writing regarding...
+    I would like to ask about...
 
-开头万能句
-I recently learned about...
-I am writing regarding...
-I would like to ask about...
+    描述问题
+    However, I experienced a problem...
+    Unfortunately, ...
+    I was unable to...
 
-描述问题
-However, I experienced a problem...
-Unfortunately, ...
-I was unable to...
-
-礼貌询问
-Could you please...?
-I would appreciate it if...
-I would be grateful if...
+    礼貌询问
+    Could you please...?
+    I would appreciate it if...
+    I would be grateful if...
 
 TOEFL 邮件作文其实是在考“英语事务处理能力”
 
-## 五、你现在最该练的,不是：“自己硬写”
+五、你现在最该练的,不是：“自己硬写”
 
 而是：拆结构模仿
 
@@ -295,7 +369,7 @@ TOEFL 邮件作文其实是在考“英语事务处理能力”
 
 
 
-# 作文学术讨论
+## 学术讨论
 一，考察点
 目的：
     清楚表达
