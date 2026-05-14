@@ -1,4 +1,4 @@
-# 听力
+# Listening
 ## 大脑无法实时处理听力内容
 ------英语听力本质上不是：“翻译”
 
@@ -456,3 +456,191 @@ Although Andrew makes a good point, I still think...
     中间：理由 + 例子
 
     最后：回应别人
+
+# Speaking
+
+## 复述题（Retell / Summarize）
+
+新版托福口语复述题考察：
+
+    “顺序抓信息”
+
+
+一、新版托福口语复述题，本质到底是什么？
+
+新版真正测的是：
+
+    你能不能快速抓住英语的信息推进。
+
+        比如听到：
+
+        The university plans to extend library hours because many students study late at night.
+
+        真正高分的人脑子里不是中文。
+
+        而是：
+
+        university
+        → extend library hours
+        → because
+        → students study late
+
+        这就是：英语顺序抓取能力。
+
+二、为什么很多人听懂了，但复述不出来？
+
+因为：他们脑子流程是：
+
+听英语
+→ 翻译中文
+→ 想中文逻辑
+→ 再翻回英语
+
+结果：大脑爆炸。
+
+新版托福时间特别短。
+
+根本不允许：“英文转中文”。
+
+三、真正高效的口语复述核心
+
+**英语顺序复述**
+
+四、什么叫“顺序复述”？
+
+比如：
+
+The company introduced a new AI system to improve customer service.
+
+你不要翻译：“公司为了提高客户服务，引入了……”
+
+而是脑内：
+
+company
+→ introduced
+→ AI system
+→ improve customer service
+
+然后口语直接顺着往后：
+
+The company introduced a new AI system.
+It helps improve customer service.
+
+五、托福口语真正高分的人，大脑是什么状态？
+
+不是：“构思作文”。
+而是：一边理解,一边线性推进。
+
+英语母语者说话：
+
+本来就是：
+
+主体
+→ 动作
+→ 补充
+
+一路往后。
+
+六、你现在最该练的东西（极其重要）
+不是疯狂说。
+
+而是：
+
+“英语顺序抓取”
+
+因为新版托福口语复述题，核心是： “你能不能抓住英语推进顺序”
+
+七、真正高效训练法
+
+训练1（最重要）
+听一句
+顺序拆句
+
+比如：
+
+Students use online platforms to communicate with teachers more easily.
+
+你脑内：
+
+students
+→ use
+→ online platforms
+→ communicate with teachers
+→ more easily
+
+不要翻译。
+
+训练2（核心）
+立刻口头顺序复述
+
+比如：
+
+Students use online platforms.
+They can communicate with teachers more easily.
+
+就这样。
+
+不用高级。
+
+八、总结
+
+英语的信息流是托福口语的核心层。
+
+九、复述题最重要的能力：Chunk（信息块）
+
+比如：
+
+Many students prefer online classes because they offer more flexibility.
+
+真正高效听法：
+
+Many students
+→ prefer online classes
+→ because
+→ more flexibility
+
+不是逐词翻译。
+
+而是：一块一块抓。
+
+十、最危险的误区
+
+千万不要：
+
+❌ 一上来追求“说得像美国人”
+❌ 背复杂模板
+❌ 背高级连接词
+
+新版托福越来越不看这些。
+
+它更看：
+    你能不能自然推进信息。
+
+十一、备考路线（非常关键）
+第一阶段（你现在）
+
+重点：
+    英语顺序感
+
+每天：
+
+精听30分钟
+顺序拆句
+口头复述
+第二阶段
+
+开始：
+
+限时复述
+
+听30秒
+→ 复述45秒
+
+第三阶段
+
+再加入：
+
+模板
+连接
+节奏
+发音
