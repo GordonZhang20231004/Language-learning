@@ -218,12 +218,25 @@ to
 ## 自己如何备考？
 将听力中难以听懂的长句子，进行记录并做信息流笔记
     如
-    sitting at your desk---动作 → 地点
-    Weekends---先定范围主题
-        is actually---修正
-        when I do---修正的内容
-        most of---先给数量感
-        working out---后补充内容
+        sitting at your desk---动作 → 地点
+
+        Weekends---先定范围主题
+            is actually---修正
+            when I do---修正的内容
+            most of---先给数量感
+            working out---后补充内容
+
+同时，注意各个信息流之间组成的信息块流。
+    如
+        You'll enjoy---先说感受 
+        working up some sweat ---后说具体的事情 
+            right after --- 时间关系补充 
+                sitting at your desk ---场景展开---先动作后地点 
+                in front of the computer ---上一层补充 
+                    all day ---时间长度后置 
+                    five days a week.---最后时间频率 以上我这种信息流的划分
+        
+ 足够大量、足够重复、足够自动化
 
 # Writing
 
