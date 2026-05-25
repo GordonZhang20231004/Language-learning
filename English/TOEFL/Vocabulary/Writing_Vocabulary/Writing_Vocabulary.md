@@ -34,3 +34,28 @@ I want to express my admiration for your new publication.
 
 I hope you're doing well.
 （邮件开头）希望您一切安好。
+
+# 新托福样题2
+recommending
+
+team lunch
+
+but unfortunately
+
+experience
+
+disappointing
+
+meet
+
+expectations
+
+in terms
+
+flavor
+
+notably
+
+lunch break
+
+planned
