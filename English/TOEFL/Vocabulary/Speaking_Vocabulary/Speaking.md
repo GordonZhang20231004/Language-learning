@@ -49,6 +49,7 @@ the front entrance
 
 # 模拟面试
 ## 样题1
+1. Q1
 modern
 
 energetic city
@@ -149,3 +150,53 @@ promote
 well-being
 
 urban populations
+
+2. Q2
+personally find
+
+stimulating
+
+energizing
+
+fast-paced environments
+
+city life
+
+involves
+
+loneliness
+
+uncertainty
+
+fear
+
+embarrassment
+
+experiences
+
+grow stronger
+
+more capable
+
+receive
+
+attention
+
+recognition
+
+growing up
+
+because of that
+
+I've always
+
+I’ve always wanted
+
+I’ve always want
+
+prove myself
+
+through hard work
+
+earn recognition
+
