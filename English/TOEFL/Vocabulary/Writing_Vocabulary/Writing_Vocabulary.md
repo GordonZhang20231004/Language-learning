@@ -68,9 +68,15 @@ business conference
 
 recall
 
+visited 
+
 insights 
 
+make the most
+
 between meetings
+
+quick meal
 
 local cuisine
 
@@ -81,6 +87,8 @@ quick meal
 sights
 
 a free afternoon
+
+love 
 
 authentic
 
