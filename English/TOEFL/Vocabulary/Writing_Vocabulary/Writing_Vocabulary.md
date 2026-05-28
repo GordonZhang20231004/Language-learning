@@ -59,3 +59,49 @@ notably
 lunch break
 
 planned
+
+
+# 新托福样题3
+I hope this email finds you well.
+
+business conference
+
+recall
+
+insights 
+
+between meetings
+
+local cuisine
+
+casual dining spots
+
+quick meal
+
+sights
+
+a free afternoon
+
+authentic
+
+seafood
+
+excited
+
+tourist traps
+
+I'd prefer
+
+fine dining
+
+overly expensive
+
+tight schedule
+
+budget
+
+initial research phase
+
+drafted 
+
+approaching
