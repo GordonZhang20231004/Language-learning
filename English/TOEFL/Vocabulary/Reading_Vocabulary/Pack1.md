@@ -15,7 +15,7 @@ various - ecosystems
 decomposers
 organic matter 
 nutrients - soil
-fungi - symbiotic - relationships - plants
+fungi - symbiotic relationships - plants
 
 
 ## 日常生活1
@@ -23,12 +23,21 @@ interview - position - Marketing Coordinator - November 3 at 2:00 p.m
 
 ## 日常生活2
 webinar - advanced project management techniques
-functioning cameras & headphones - participation  - interactive segments - 
+functioning cameras & headphones - participation  - interactive segments 
 
 ## 日常生活3
 eye - inbox
 
 ## 学术文章
+integral part - various conditions
+triggering - release - neurotransmitters - dopamine & serotonin
+tempos - calm us down
+workout playlists  - feature - upbeat songs
+relaxation playlists - soothing melodies
+Beyond - personal well-being
+protests & rallies 
+Loud & aggressive music - stress and anxiety 
+informed choice
 
 # Module2
 ## 单词填空
@@ -40,3 +49,5 @@ scrutinize - climate patterns & historical data - formulate strategies - mitigat
 
 
 ## 学术文章
+utilizes - satellite 
+informed decisions - in turn -  increase efficiency and reduce waste.
