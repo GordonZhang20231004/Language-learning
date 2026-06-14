@@ -2,9 +2,11 @@
 ## 句子回复
 access - account
 history class - cancelled
-appetizer - special
+appetizer special
 progress - report
 extend - hotel reservation
+I'll have to get back to you.
+front desk
 ## 日常对话1
 Did you end up making it to 
 I was planning to go - sidetracked - cousin - new apartment
